@@ -13,8 +13,8 @@ public class ReversingString
 		int j=0;
 		int w=0;
 		while(i<s.length())
-			//if(i=0&&w=0)
-			//{
+			if(i=0&&w=0)
+			{
 			{
 			//int w;
 			if(i==0)w=0;
